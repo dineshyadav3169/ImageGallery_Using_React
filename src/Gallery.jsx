@@ -19,25 +19,13 @@ import lgShare from 'lightgallery/plugins/share';
 import lgRotate from 'lightgallery/plugins/rotate';
 
 const images = [
-    { src: "/1.jpg", alt: "Flag of India" },
-    { src: "/2.jpg", alt: "2" },
-    { src: "/3.jpg", alt: "3" },
-    { src: "/4.jpg", alt: "4", },
-    { src: "/5.jpg", alt: "5", },
-    { src: "/6.jpg", alt: "6", },
-    { src: "/7.jpg", alt: "7", },
-    { src: "/8.jpg", alt: "8", },
-    { src: "/9.jpg", alt: "9", },
-    { src: "/10.jpg", alt: "10", },
-    { src: "/11.jpg", alt: "11", },
-    { src: "/12.jpg", alt: "12", },
-    { src: "/13.jpg", alt: "13", },
-    { src: "/14.jpg", alt: "14", },
-    { src: "/15.jpg", alt: "15", },
-    { src: "/16.jpg", alt: "16", },
-    { src: "/17.jpg", alt: "17", },
-    { src: "/18.jpg", alt: "18", },
-    { src: "/19.jpg", alt: "19", },
+    { src: "/1.jpeg", alt: "Flag of India" },
+    { src: "/2.jpeg", alt: "2" },
+    { src: "/3.jpeg", alt: "3" },
+    { src: "/4.jpeg", alt: "4", },
+    { src: "/5.jpeg", alt: "5", },
+    { src: "/6.jpeg", alt: "6", },
+    { src: "/7.jpeg", alt: "7", }
 ]
 
 export function Gallery() {
